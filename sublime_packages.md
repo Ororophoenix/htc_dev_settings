@@ -1,3 +1,4 @@
+* AllAutoComplete
 * Better CoffeeScript
 * BracketHighlighter
 * ERB Snippets
